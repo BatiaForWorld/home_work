@@ -37,7 +37,3 @@ def format_date(date_str: str) -> str:
 """Пример использования функции"""
 date_input = "2018-07-11T02:26:18.671407"
 print(format_date(date_input))
-
-
-
-
