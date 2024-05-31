@@ -12,4 +12,3 @@ def mask_account_number(account_number: int) -> str:
     """ Маскируем номер счета """
     masked_account = "**" + account_number_str[-4:]
     return masked_account
-
