@@ -1,8 +1,8 @@
-# Проект Home work of Kazantsev Compami
+# Проект Home work of Kazantsev Company
 
 ## Описание:
 
-Проект Home work of Kazantsev Compami - это приложение на Python для проверки наставникам.
+Проект Home work of Kazantsev Company - это приложение на Python для проверки наставникам.
 
 ## Установка:
 
