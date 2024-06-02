@@ -8,7 +8,7 @@
 
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/username/project-x.git
+git clone https://github.com/BatiaForWorld/home_work.git
 ```
 2. Зависимости в файле ```pyproject.toml```
 3. ## Использование:
